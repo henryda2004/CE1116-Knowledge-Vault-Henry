@@ -8,49 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e4d8579cf50d099e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CE1116/08_Templates/Atomic Template.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Atomic Template"
-            }
-          },
-          {
-            "id": "a22a4bbf27708a88",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CE1116/00_Inbox/Ejemplo Nueva Nota.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Ejemplo Nueva Nota"
-            }
-          },
-          {
-            "id": "67cf102ca28aae18",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CE1116/00_Inbox/Ejemplo Nueva Nota.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Ejemplo Nueva Nota"
-            }
-          },
-          {
-            "id": "9fea8fb6a24cd821",
+            "id": "8ee79ba50f8da2d1",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -64,17 +22,241 @@
             }
           },
           {
-            "id": "8ee79ba50f8da2d1",
+            "id": "6140493db80d1dcb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CE1116/01_Procesos de Desarrollo/Stakeholder.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Stakeholder"
+            }
+          },
+          {
+            "id": "cf259f20309a9f45",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CE1116/02_Requirimientos/Requerimientos de Negocio.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Requerimientos de Negocio"
+            }
+          },
+          {
+            "id": "c237fa8a05221036",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CE1116/02_Requirimientos/Requerimientos de Sistema.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Requerimientos de Sistema"
+            }
+          },
+          {
+            "id": "a69a1248ce795f70",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CE1116/02_Requirimientos/Requerimientos Funcionales.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Requerimientos Funcionales"
+            }
+          },
+          {
+            "id": "7b0994a24c0c9da3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CE1116/02_Requirimientos/Requerimientos No Funcionales.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Requerimientos No Funcionales"
+            }
+          },
+          {
+            "id": "cb7fc6aec9d112b0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CE1116/01_Procesos de Desarrollo/Filosofía ágil.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Filosofía ágil"
+            }
+          },
+          {
+            "id": "c28947f9476ddb4b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CE1116/01_Procesos de Desarrollo/Scrum.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Scrum"
+            }
+          },
+          {
+            "id": "101d8ecd8d6df444",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CE1116/01_Procesos de Desarrollo/Product Backlog.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Product Backlog"
+            }
+          },
+          {
+            "id": "acfcbc9396f79bae",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CE1116/01_Procesos de Desarrollo/Sprint Backlog.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Sprint Backlog"
+            }
+          },
+          {
+            "id": "0b36fffceca5c205",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CE1116/01_Procesos de Desarrollo/Velocity.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Velocity"
+            }
+          },
+          {
+            "id": "8e6576a1e20b51ce",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CE1116/01_Procesos de Desarrollo/Story Points.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Story Points"
+            }
+          },
+          {
+            "id": "c789ec0bc16d0011",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CE1116/01_Procesos de Desarrollo/Planning Poker.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Planning Poker"
+            }
+          },
+          {
+            "id": "5ab6ce468d2dd587",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CE1116/01_Procesos de Desarrollo/Product Owner.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Product Owner"
+            }
+          },
+          {
+            "id": "455269e12718ff40",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CE1116/01_Procesos de Desarrollo/Taskboard.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Taskboard"
+            }
+          },
+          {
+            "id": "ff2fd9e56946e966",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CE1116/02_Requirimientos/User Story.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "User Story"
+            }
+          },
+          {
+            "id": "31f7c88e7754ca03",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CE1116/01_Procesos de Desarrollo/Definition of Done (DoD).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Definition of Done (DoD)"
+            }
+          },
+          {
+            "id": "2554b6441dbd97e8",
             "type": "leaf",
             "state": {
               "type": "graph",
               "state": {},
               "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "Vista gráfica"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 17
       }
     ],
     "direction": "vertical"
@@ -97,7 +279,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "Explorador de archivos"
             }
           },
           {
@@ -213,32 +395,45 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Crear nueva base": false,
       "templater-obsidian:Templater": false
     }
   },
-  "active": "9fea8fb6a24cd821",
+  "active": "2554b6441dbd97e8",
   "lastOpenFiles": [
-    "CE1116/06_Despliegue e Infrastructura/Azure DevOps.md",
-    "CE1116/03_Arquitectura y Diseño/Microservicios.md",
-    "CE1116/02_Requirimientos/Entrevistas.md",
-    "CE1116/00_Inbox/Ejemplo Nueva Nota.md",
     "CE1116/01_Procesos de Desarrollo/Scrum.md",
-    "CE1116/04_Implementación/Estándares de Programación.md",
-    "CE1116/07_Mantenimiento/Monitoreo de Aplicación.md",
+    "CE1116/01_Procesos de Desarrollo/Scrum.md",
+    "CE1116/01_Procesos de Desarrollo/Product Owner.md",
+    "CE1116/05_Pruebas/Pruebas Funcionales.md",
+    "CE1116/01_Procesos de Desarrollo/Sprint Planning.md",
+    "CE1116/01_Procesos de Desarrollo/Definition of Done (DoD).md",
+    "CE1116/02_Requirimientos/User Story.md",
+    "CE1116/01_Procesos de Desarrollo/Taskboard.md",
+    "CE1116/01_Procesos de Desarrollo/Planning Poker.md",
+    "CE1116/01_Procesos de Desarrollo/Story Points.md",
+    "CE1116/01_Procesos de Desarrollo/Velocity.md",
+    "CE1116/01_Procesos de Desarrollo/Product Backlog.md",
+    "CE1116/01_Procesos de Desarrollo/Sprint Backlog.md",
+    "CE1116/01_Procesos de Desarrollo/Filosofía ágil.md",
+    "CE1116/02_Requirimientos/Requerimientos No Funcionales.md",
+    "CE1116/02_Requirimientos/Requerimientos Funcionales.md",
+    "CE1116/02_Requirimientos/Requerimientos de Sistema.md",
+    "CE1116/02_Requirimientos/Requerimientos de Negocio.md",
+    "CE1116/01_Procesos de Desarrollo/Stakeholder.md",
     "CE1116/05_Pruebas/Pruebas Unitarias.md",
+    "CE1116/00_Inbox/Ejemplo Nueva Nota.md",
+    "CE1116/03_Arquitectura y Diseño/Microservicios.md",
+    "CE1116/07_Mantenimiento/Monitoreo de Aplicación.md",
     "CE1116/08_Templates/Atomic Template.md",
-    "Untitled.canvas",
     "README.md",
-    "CE1116/00_Inbox/test1.md",
-    "CE1116/00_Inbox/test.md",
-    "Untitled.md",
-    "Untitled 1.md",
+    "CE1116/02_Requirimientos/Entrevistas.md",
+    "Untitled.canvas",
     "CE1116/08_Templates",
     "CE1116/00_Inbox",
     "CE1116/07_Mantenimiento",
@@ -248,7 +443,6 @@
     "CE1116/05_Pruebas",
     "CE1116/04_Implementación",
     "CE1116/03_Arquitectura y Diseño",
-    "Welcome.md",
     "CE1116/02_Requirimientos"
   ]
 }

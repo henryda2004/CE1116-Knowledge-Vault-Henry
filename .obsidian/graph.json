@@ -8,56 +8,56 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "#ingeniería-de-software",
+      "query": "tag:ingeniería-de-software",
       "color": {
         "a": 1,
         "rgb": 14701138
       }
     },
     {
-      "query": "#requerimientos",
+      "query": "tag:requerimientos",
       "color": {
         "a": 1,
         "rgb": 14725458
       }
     },
     {
-      "query": "#arquitectura",
+      "query": "tag:arquitectura",
       "color": {
         "a": 1,
         "rgb": 14754672
       }
     },
     {
-      "query": "#pruebas",
+      "query": "tag:pruebas",
       "color": {
         "a": 1,
         "rgb": 45296
       }
     },
     {
-      "query": "#diseño",
+      "query": "tag:diseño",
       "color": {
         "a": 1,
         "rgb": 12472544
       }
     },
     {
-      "query": "#infrastructura",
+      "query": "tag:infraestructura",
       "color": {
         "a": 1,
         "rgb": 14754595
       }
     },
     {
-      "query": "#mantenimiento",
+      "query": "tag:mantenimiento",
       "color": {
         "a": 1,
         "rgb": 2979323
       }
     },
     {
-      "query": "#implementación",
+      "query": "tag:implementación",
       "color": {
         "a": 1,
         "rgb": 6434415
@@ -71,9 +71,9 @@
   "lineSizeMultiplier": 1,
   "collapse-forces": false,
   "centerStrength": 0.518713248970312,
-  "repelStrength": 10,
+  "repelStrength": 9.30795847750865,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 1.4019828977761009,
+  "scale": 1.0051241585176023,
   "close": false
 }
