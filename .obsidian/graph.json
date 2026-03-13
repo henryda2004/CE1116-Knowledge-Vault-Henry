@@ -62,9 +62,16 @@
         "a": 1,
         "rgb": 6434415
       }
+    },
+    {
+      "query": "tag:diseño",
+      "color": {
+        "a": 1,
+        "rgb": 14048429
+      }
     }
   ],
-  "collapse-display": false,
+  "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1,
@@ -74,6 +81,6 @@
   "repelStrength": 9.30795847750865,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 1.0051241585176023,
+  "scale": 1.1389108771505265,
   "close": false
 }

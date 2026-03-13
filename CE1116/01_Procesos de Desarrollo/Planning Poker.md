@@ -3,7 +3,7 @@ Fecha de creación: 2026-03-01 12:20
 Fecha de Modificación: 2026-03-01 12:20
 tags:
   - ingeniería-de-software
-Tema:
+Tema: metodologías-de-desarrollo
 ---
 
 
@@ -15,9 +15,7 @@ Técnica colaborativa de estimación utilizada en metodologías ágiles. Cada mi
 
 ## 🔗 Connections
 - [[Story Points]]
-    
 - [[Sprint Planning]]
-    
 - [[Velocity]]
 
 ## 💡 Personal Insight (Opcional)

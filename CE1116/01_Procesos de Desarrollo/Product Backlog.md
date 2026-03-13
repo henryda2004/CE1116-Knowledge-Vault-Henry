@@ -3,7 +3,7 @@ Fecha de creación: 2026-03-01 12:19
 Fecha de Modificación: 2026-03-01 12:19
 tags:
   - ingeniería-de-software
-Tema:
+Tema: metodologías-de-desarrollo
 ---
 
 
@@ -15,11 +15,8 @@ Es una lista dinámica de todo el trabajo pendiente de un producto. Tiene funcio
 
 ## 🔗 Connections
 - [[Scrum]]
-    
 - [[Product Owner]]
-    
 - [[Sprint Backlog]]
-    
 - [[User Story]]
 
 ## 💡 Personal Insight (Opcional)

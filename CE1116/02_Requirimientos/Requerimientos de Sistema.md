@@ -3,7 +3,7 @@ Fecha de creación: 2026-03-01 12:19
 Fecha de Modificación: 2026-03-01 12:19
 tags:
   - requerimientos
-Tema:
+Tema: gestión-de-requerimientos
 ---
 
 
@@ -15,9 +15,7 @@ Traducen las necesidades del negocio en cómo debe de comportarse el sistema. Se
 
 ## 🔗 Connections
 - [[Requerimientos de Negocio]]
-    
 - [[Requerimientos Funcionales]]
-    
 - [[Requerimientos No Funcionales]]
 
 ## 💡 Personal Insight (Opcional)

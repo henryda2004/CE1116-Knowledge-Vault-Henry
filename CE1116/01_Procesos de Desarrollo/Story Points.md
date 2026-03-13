@@ -3,7 +3,7 @@ Fecha de creación: 2026-03-01 12:20
 Fecha de Modificación: 2026-03-01 12:20
 tags:
   - ingeniería-de-software
-Tema:
+Tema: metodologías-de-desarrollo
 ---
 
 
@@ -15,9 +15,7 @@ Son una unidad de medida utilizada para estimar el esfuerzo, complejidad y riesg
 
 ## 🔗 Connections
 - [[Planning Poker]]
-    
 - [[Velocity]]
-    
 - [[User Story]]
 
 ## 💡 Personal Insight (Opcional)

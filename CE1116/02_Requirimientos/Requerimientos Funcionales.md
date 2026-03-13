@@ -3,7 +3,7 @@ Fecha de creación: 2026-03-01 12:19
 Fecha de Modificación: 2026-03-01 12:19
 tags:
   - requerimientos
-Tema:
+Tema: gestión-de-requerimientos
 ---
 
 
@@ -15,9 +15,7 @@ Describen las acciones específicas que el sistema debe ser capaz de realizar. A
 
 ## 🔗 Connections
 - [[Requerimientos de Sistema]]
-    
 - [[User Story]]
-    
 - [[Pruebas Funcionales]]
 
 ## 💡 Personal Insight (Opcional)
