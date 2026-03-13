@@ -3,7 +3,7 @@ Fecha de creación: 2026-03-01 12:20
 Fecha de Modificación: 2026-03-01 12:20
 tags:
   - ingeniería-de-software
-Tema:
+Tema: metodologías-de-desarrollo
 ---
 
 
@@ -15,9 +15,7 @@ Herramienta visual que permite monitorear el progreso del trabajo durante el spr
 
 ## 🔗 Connections
 - [[Sprint Backlog]]
-    
 - [[Scrum]]
-    
 - [[Sprint Planning]]
 
 ## 💡 Personal Insight (Opcional)

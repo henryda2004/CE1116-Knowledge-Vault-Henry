@@ -10,12 +10,13 @@ Topic:
 
 ## 📚 Idea/Concepto 
 
-
+Es un enfoque de diseño en el que una aplicación se divide en múltiples servicios pequeños e independientes, cada uno  responsable de una funcionalidad específica del sistema. Los servicios se deben comunicar entre sí mediante interfaces definidas.
 ## 📌 Puntos Claves (Opcional)
 - 
 
 ## 🔗 Connections
-- [[Ejemplo Nueva Nota]]
+- [[Monitoreo de Aplicación]]
+- [[Azure DevOps]]
 
 ## 💡 Personal Insight (Opcional)
 - 

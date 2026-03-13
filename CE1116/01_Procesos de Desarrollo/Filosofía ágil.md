@@ -3,7 +3,7 @@ Fecha de creación: 2026-03-01 12:19
 Fecha de Modificación: 2026-03-01 12:19
 tags:
   - ingeniería-de-software
-Tema:
+Tema: metodologías-de-desarrollo
 ---
 
 
@@ -15,13 +15,9 @@ Es un enfoque de desarrollo que prioriza lo adaptable, colaboración constante e
 
 ## 🔗 Connections
 - [[Scrum]]
-    
 - [[User Story]]
-    
 - [[Sprint Planning]]
-    
 - [[Product Owner]]
-
 ## 💡 Personal Insight (Opcional)
 - 
 ## 🧾 Recursos (Opcional)

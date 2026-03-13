@@ -3,7 +3,7 @@ Fecha de creación: 2026-03-01 12:19
 Fecha de Modificación: 2026-03-01 12:19
 tags:
   - requerimientos
-Tema:
+Tema: gestión-de-requerimientos
 ---
 
 
@@ -15,11 +15,8 @@ Necesidades y objetivos que la organización quiere lograr con el proyecto. Impo
 
 ## 🔗 Connections
 - [[Stakeholder]]
-    
 - [[Requerimientos de Sistema]]
-    
 - [[Requerimientos Funcionales]]
-    
 - [[Product Owner]]
 
 ## 💡 Personal Insight (Opcional)

@@ -3,7 +3,7 @@ Fecha de creación: 2026-03-01 12:20
 Fecha de Modificación: 2026-03-01 12:20
 tags:
   - ingeniería-de-software
-Tema:
+Tema: metodologías-de-desarrollo
 ---
 
 
@@ -15,9 +15,7 @@ Es un grupo de tareas seleccionadas del product backlog que el equipo de trabajo
 
 ## 🔗 Connections
 - [[Product Backlog]]
-    
 - [[Sprint Planning]]
-    
 - [[Taskboard]]
 
 ## 💡 Personal Insight (Opcional)

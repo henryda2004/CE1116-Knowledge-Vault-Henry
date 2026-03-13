@@ -3,7 +3,7 @@ Fecha de creación: 2026-03-01 12:19
 Fecha de Modificación: 2026-03-01 12:19
 tags:
   - ingeniería-de-software
-Tema:
+Tema: metodologías-de-desarrollo
 ---
 
 
@@ -15,13 +15,9 @@ Es una forma de trabajo en la filosofía ágil que organiza el desarrollo en ite
 
 ## 🔗 Connections
 - [[Filosofía ágil]]
-    
 - [[Sprint Planning]]
-    
 - [[Product Backlog]]
-    
 - [[Sprint Backlog]]
-    
 - [[Velocity]]
 
 ## 💡 Personal Insight (Opcional)

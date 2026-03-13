@@ -3,7 +3,7 @@ Fecha de creación: 2026-03-01 12:20
 Fecha de Modificación: 2026-03-01 12:20
 tags:
   - requerimientos
-Tema:
+Tema: gestión-de-requerimientos
 ---
 
 
@@ -15,11 +15,8 @@ Es una descripción breve de una funcionalidad desde la perspectiva del usuario 
 
 ## 🔗 Connections
 - [[Requerimientos Funcionales]]
-    
 - [[Product Backlog]]
-    
 - [[Story Points]]
-    
 - [[Pruebas Funcionales]]
 
 ## 💡 Personal Insight (Opcional)

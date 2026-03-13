@@ -3,7 +3,7 @@ Fecha de creación: 2026-03-01 12:20
 Fecha de Modificación: 2026-03-01 12:20
 tags:
   - pruebas
-Tema:
+Tema: calidad-y-pruebas
 ---
 
 
@@ -15,9 +15,7 @@ Verifican que el sistema cumple con los requerimientos funcionales definidos. Va
 
 ## 🔗 Connections
 - [[Requerimientos Funcionales]]
-    
 - [[Definition of Done (DoD)]]
-    
 - [[User Story]]
 
 ## 💡 Personal Insight (Opcional)

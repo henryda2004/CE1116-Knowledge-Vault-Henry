@@ -3,7 +3,7 @@ Fecha de creación: 2026-03-01 12:19
 Fecha de Modificación: 2026-03-01 12:19
 tags:
   - requerimientos
-Tema:
+Tema: gestión-de-requerimientos
 ---
 
 
@@ -15,9 +15,6 @@ Establecen criterios de calidad y desempeño del sistema. Especifica más que to
 
 ## 🔗 Connections
 - [[Requerimientos de Sistema]]
-    
-- [[Arquitectura]]
-    
 - [[Pruebas Funcionales]]
 
 ## 💡 Personal Insight (Opcional)

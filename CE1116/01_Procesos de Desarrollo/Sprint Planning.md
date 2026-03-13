@@ -3,7 +3,7 @@ Fecha de creación: 2026-03-01 12:20
 Fecha de Modificación: 2026-03-01 12:20
 tags:
   - ingeniería-de-software
-Tema:
+Tema: metodologías-de-desarrollo
 ---
 
 
@@ -15,11 +15,8 @@ Es la reunión inicial de cada sprint donde el equipo define qué trabajo realiz
 
 ## 🔗 Connections
 - [[Sprint Backlog]]
-    
 - [[Product Backlog]]
-    
 - [[Velocity]]
-    
 - [[Planning Poker]]
 
 ## 💡 Personal Insight (Opcional)

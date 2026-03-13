@@ -11,12 +11,15 @@ Topic:
 
 ## 📚 Idea/Concepto 
 
-
+Son una técnica de levantamiento de requerimientos utilizada para obtener información directamente de los stakeholders. Consiste en tener conversaciones estructuradas donde se busca comprender necesidades, problemas actuales, objetivos del negocio y expectativas sobre el sistema.
 ## 📌 Puntos Claves (Opcional)
 - 
 
 ## 🔗 Connections
 - [[Scrum]]
+- [[Stakeholder]]
+- [[Requerimientos de Negocio]]
+- [[Requerimientos Funcionales]]
 
 ## 💡 Personal Insight (Opcional)
 - 

@@ -3,7 +3,7 @@ Fecha de creación: 2026-03-01 12:18
 Fecha de Modificación: 2026-03-01 12:18
 tags:
   - requerimientos
-Tema:
+Tema: gestión-de-requerimientos
 ---
 
 
@@ -16,11 +16,8 @@ Persona, grupo o empresa que está implicada en el proyecto a manera de cliente 
 
 ## 🔗 Connections
 - [[Requerimientos de Negocio]]
-    
 - [[Product Owner]]
-    
 - [[User Story]]
-    
 - [[Requerimientos de Sistema]]
 
 ## 💡 Personal Insight (Opcional)

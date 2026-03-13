@@ -3,7 +3,7 @@ Fecha de creación: 2026-03-01 12:20
 Fecha de Modificación: 2026-03-01 12:20
 tags:
   - ingeniería-de-software
-Tema:
+Tema: metodologías-de-desarrollo
 ---
 
 
@@ -15,9 +15,7 @@ Responsable de maximizar el valor del producto. Actúa como intermediario entre 
 
 ## 🔗 Connections
 - [[Stakeholder]]
-    
 - [[Product Backlog]]
-    
 - [[Requerimientos de Negocio]]
 
 ## 💡 Personal Insight (Opcional)

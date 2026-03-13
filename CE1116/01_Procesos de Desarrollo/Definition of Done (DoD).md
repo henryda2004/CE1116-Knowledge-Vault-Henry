@@ -3,7 +3,7 @@ Fecha de creación: 2026-03-01 12:20
 Fecha de Modificación: 2026-03-01 12:20
 tags:
   - ingeniería-de-software
-Tema:
+Tema: metodologías-de-desarrollo
 ---
 
 
@@ -15,9 +15,7 @@ Conjunto de criterios que deben cumplirse para considerar que una historia o tar
 
 ## 🔗 Connections
 - [[Scrum]]
-    
 - [[Pruebas Funcionales]]
-    
 - [[Sprint Backlog]]
 
 ## 💡 Personal Insight (Opcional)
